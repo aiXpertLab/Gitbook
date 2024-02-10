@@ -1,15 +1,15 @@
 ---
-description: Good one.
+description: Not a Good one.
 cover: .gitbook/assets/Untitled.png
 coverY: 0
 ---
 
-# 👋 Welcome to A Product
+# 👋 Welcome Haha
 
 
 
 {% hint style="info" %}
-**GitBook tip:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
+**GitBook tip:** aaa your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
 {% endhint %}
 
 ## Overview
